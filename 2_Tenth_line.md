@@ -1,6 +1,6 @@
-# Problem 217 LEETCODE
+# Problem 195 LEETCODE
 
-- [Contains Duplicate – LeetCode](https://leetcode.com/problems/tenth-line/]
+- [Tenth Line – LeetCode](https://leetcode.com/problems/tenth-line/]
 
 # Intuition
 
