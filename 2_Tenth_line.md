@@ -4,8 +4,8 @@
 
 # Intuition
 
-- head -n 10 file.txt | tail -n 1
-- ``` head -n 10 file.txt | tail -n 1```
+ ``` head -n 10 file.txt | tail -n 1 ``` 
+
 was my initial solution; however leetcode didn't take it
 
 # Code 
