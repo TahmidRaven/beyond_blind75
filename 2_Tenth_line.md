@@ -1,6 +1,6 @@
 # Problem 195 LEETCODE
 
-- [Tenth Line – LeetCode](https://leetcode.com/problems/tenth-line/]
+- [Tenth Line – LeetCode](https://leetcode.com/problems/tenth-line/)
 
 # Intuition
 
