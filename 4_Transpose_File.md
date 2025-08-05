@@ -43,11 +43,11 @@ age 21 30
 - **`NF`**: Stands for "Number of Fields," it tells you how many words there are in the current line.
 - **`FS`**: Stands for "Field Separator," it defines how AWK splits a line into words (fields), usually by spaces or tabs.
 
-- Shebang (#!/bin/bash)
+- Shebang ```(#!/bin/bash)```
 Tells the system to run the script using the Bash shell.
 
 - AWK Command
-awk is used to process the file line by line.
+```awk``` is used to process the file line by line.
 
 - Processing Each Line:
 
