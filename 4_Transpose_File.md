@@ -51,7 +51,6 @@ awk is used to process the file line by line.
 
 - Processing Each Line:
 
-- NF: Represents the number of fields (words) in the current line.
 
 ```for (i = 1; i <= NF; i++):``` Loops through each word in the line.
 
