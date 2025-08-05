@@ -51,15 +51,15 @@ awk is used to process the file line by line.
 
 - Processing Each Line:
 
-NF: Represents the number of fields (words) in the current line.
+- NF: Represents the number of fields (words) in the current line.
 
-for (i = 1; i <= NF; i++): Loops through each word in the line.
+```for (i = 1; i <= NF; i++):``` Loops through each word in the line.
 
-arr[i]: Stores words in an array, with each column of the file being stored at a specific index in arr.
+```arr[i]:``` Stores words in an array, with each column of the file being stored at a specific index in arr.
 
 - Transposing Data:
 
-arr[i] = (arr[i] ? arr[i] FS $i : $i): Appends each word to the corresponding column in the array, ensuring spaces are preserved between words.
+```arr[i] = (arr[i] ? arr[i] FS $i : $i):``` Appends each word to the corresponding column in the array, ensuring spaces are preserved between words.
 
 - END Block:
 
